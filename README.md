@@ -1,2 +1,2 @@
 # virdeploy
-My first project and the aim is to apply Gradient to deploy a deep learning neural network.
+My first project which aims is to apply Gradient to deploy a deep learning neural network.
